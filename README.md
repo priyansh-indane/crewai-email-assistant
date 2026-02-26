@@ -1,0 +1,1 @@
+# crewai-email-assistant
