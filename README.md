@@ -1,11 +1,13 @@
 # crewai-email-assistant
 
-CrewAI Email Assistant 📧
-A specialized AI agent built with CrewAI and Google Gemini designed to transform informal, messy drafts into clear, professional, and corporate-ready emails.
+# Email Rewriter Agent
 
-Features
-Professional Rewriting: Automatically adjusts tone, grammar, and structure.
+An AI-powered email rewriter using CrewAI and Gemini that rewrites unprofessional emails into clear, 
+professional ones and automatically sends the result via email.
 
-Powered by Gemini: Uses the gemini-1.5-flash model for high-speed, intelligent processing.
+## Features
 
-Automated Workflow: Utilizes a CrewAI Agent and Task system to handle the rewriting logic autonomously.
+- ✍️ **Email Assistant Agent** - Rewrites informal emails into professional ones
+- 📧 **Email Tool** - Automatically sends the rewritten email to the receiver via Gmail
+
+## Project Structure
