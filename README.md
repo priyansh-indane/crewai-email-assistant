@@ -8,6 +8,6 @@ professional ones and automatically sends the result via email.
 ## Features
 
 - ✍️ **Email Assistant Agent** - Rewrites informal emails into professional ones
-- 📧 **Email Tool** - Automatically sends the rewritten email to the receiver via Gmail
+- 📧 **Email Tool** - Automatically sends the rewritten email to the receiver via Gmail.
 
 ## Project Structure
